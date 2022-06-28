@@ -1,3 +1,6 @@
 #!/usr/bin/python3
-for ch in range(0, -26, -1):
-    print(f"{chr(122 + ch) if (-ch % 2) == 0 else chr(ch - 32 + 122)}", end="")
+""""Print the alphabet in reverse order alternating upper- and lower-case."""
+i = 0
+for c in range(ord('z'), ord('a') - 1, -1):
+    print("{}".format(chr(c - i)), end="")
+    i = 32 if i == 0 else 0
