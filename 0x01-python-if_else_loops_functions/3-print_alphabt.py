@@ -1,4 +1,7 @@
 #!/usr/bin/python3
-for char in range(26):
-    if char != 4 and char != 16:
-        print("{:s}".format(chr(char + ord("a"))), end="")
+# except q and e
+for k in range(97, 123, 1):
+    if k == 113 or k == 101:
+        pass
+    else:
+        print('{}'.format(chr(k)), end="")
