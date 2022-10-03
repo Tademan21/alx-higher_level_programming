@@ -1,4 +1,6 @@
-f (process.argv.length > 3) {
+#!/usr/bin/node
+
+if (process.argv.length > 3) {
   const array = process.argv.slice(2).map(Number);
 
   array.splice(array.indexOf(Math.max.apply(null, array)), 1);
