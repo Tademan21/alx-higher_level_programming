@@ -1,5 +1,4 @@
-
-
-rts.addMeMaybe = function (number, theFunction) {
+#!/usr/bin/node
+exports.addMeMaybe = function (number, theFunction) {
   theFunction(++number);
 };
