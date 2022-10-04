@@ -1,0 +1,3 @@
+
+
+rts = class Rectangle {};
