@@ -1,4 +1,6 @@
-cript that creates the `State` “California” with the
+#!/usr/bin/python3
+"""
+Script that creates the `State` “California” with the
 `City` “San Francisco” from the database `hbtn_0e_100_usa`.
 Arguments:
     mysql username (str)
