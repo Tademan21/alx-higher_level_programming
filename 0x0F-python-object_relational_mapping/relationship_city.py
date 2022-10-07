@@ -1,4 +1,5 @@
-s is the City module.
+#!/usr/bin/python3
+"""This is the City module.
 Contains the City class that inherits from Base = declarative_base()
 """
 from sqlalchemy import Column, Integer, String
