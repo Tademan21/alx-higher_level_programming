@@ -1,4 +1,6 @@
-anges the name of the State object where id=2 to New Mexico from a database
+#!/usr/bin/python3
+"""
+changes the name of the State object where id=2 to New Mexico from a database
 """
 
 import sqlalchemy

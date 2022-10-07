@@ -1,4 +1,5 @@
-st all state objects using sqlalchemy """
+#!/usr/bin/python3
+""" List all state objects using sqlalchemy """
 
 if __name__ == '__main__':
 
