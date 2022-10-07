@@ -1,4 +1,6 @@
-cript that lists all State objects from the database hbtn_0e_6_usa
+#!/usr/bin/python3
+"""
+script that lists all State objects from the database hbtn_0e_6_usa
     - Your script should take 3 arguments: mysql username, mysql password
     and database name
     - uses the module SQLAlchemy
