@@ -1,4 +1,6 @@
-st all State objects that contain the letter a from a database
+#!/usr/bin/python3
+"""
+list all State objects that contain the letter a from a database
 """
 
 import sqlalchemy
