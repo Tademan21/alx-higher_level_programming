@@ -1,4 +1,6 @@
-cript that lists all `State` objects, and corresponding
+#!/usr/bin/python3
+"""
+Script that lists all `State` objects, and corresponding
 `City` objects, contained in the database `hbtn_0e_101_usa`.
 Arguments:
     mysql username (str)
