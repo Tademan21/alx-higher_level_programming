@@ -1,4 +1,6 @@
-cript that lists all `cities` from the database `hbtn_0e_4_usa`.
+#!/usr/bin/python3
+"""
+Script that lists all `cities` from the database `hbtn_0e_4_usa`.
 Arguments:
     mysql username (str)
     mysql password (str)
