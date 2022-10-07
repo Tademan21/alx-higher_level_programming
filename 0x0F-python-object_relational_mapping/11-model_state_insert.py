@@ -1,4 +1,6 @@
-cript that adds the State object “Louisiana” to the database hbtn_0e_6_usa
+#!/usr/bin/python3
+"""
+script that adds the State object “Louisiana” to the database hbtn_0e_6_usa
     - script takes 3 arguments: mysql username, mysql password and databasename
     - uses the module SQLAlchemy
     - imports State and Base from model_state
