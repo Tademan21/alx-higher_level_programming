@@ -1,4 +1,5 @@
-s is the State module.
+#!/usr/bin/python3
+"""This is the State module.
 Contains the State class that inherits from Base = declarative_base()
 """
 from sqlalchemy import Column, Integer, String
