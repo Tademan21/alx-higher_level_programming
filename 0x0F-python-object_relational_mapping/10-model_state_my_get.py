@@ -1,5 +1,6 @@
-
-tate object with the name passed as argument from a database
+#!/usr/bin/python3
+"""
+prints the State object with the name passed as argument from a database
 """
 
 import sqlalchemy
