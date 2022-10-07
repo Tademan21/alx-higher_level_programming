@@ -1,4 +1,6 @@
-st the first State object from a database
+#!/usr/bin/python3
+"""
+list the first State object from a database
 """
 
 import sqlalchemy
