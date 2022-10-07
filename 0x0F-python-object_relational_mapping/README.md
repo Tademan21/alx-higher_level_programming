@@ -1,3 +1,0 @@
-
-n - Object-relational mapping
-
