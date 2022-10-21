@@ -1,4 +1,5 @@
-ns find_peak """
+#!/usr/bin/python3
+""" contains find_peak """
 
 
 def find_peak(list_of_integers):
