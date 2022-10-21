@@ -1,5 +1,5 @@
-
-n script that takes GitHub credentials (username and
+#!/usr/bin/python3
+"""Python script that takes GitHub credentials (username and
 password) and uses the GitHub API to display the user id."""
 
 import requests
